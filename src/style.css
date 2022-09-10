@@ -33,6 +33,10 @@ li::first-letter {
   text-decoration: none;
 }
 
+.source-code-link:hover {
+  text-decoration: underline;
+}
+
 .weather-app-wrapper {
   max-width: 600px;
   margin: 30px auto;
